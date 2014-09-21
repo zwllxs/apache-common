@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/prac_notice/!svn/ver/63/apache_common/digester_1/src/test2
+END
+charts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/prac_notice/!svn/ver/63/apache_common/digester_1/src/test2/charts.xml
+END
+DigesterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/prac_notice/!svn/ver/63/apache_common/digester_1/src/test2/DigesterTest.java
+END
+rule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/prac_notice/!svn/ver/63/apache_common/digester_1/src/test2/rule.xml
+END
+ChartConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/prac_notice/!svn/ver/63/apache_common/digester_1/src/test2/ChartConfig.java
+END
+ChartRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/prac_notice/!svn/ver/63/apache_common/digester_1/src/test2/ChartRegistry.java
+END

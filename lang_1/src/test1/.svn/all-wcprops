@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/prac_notice/!svn/ver/64/apache_common/lang_1/src/test1
+END
+TestStringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/prac_notice/!svn/ver/64/apache_common/lang_1/src/test1/TestStringUtil.java
+END
+TestMathUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/prac_notice/!svn/ver/64/apache_common/lang_1/src/test1/TestMathUtil.java
+END
+TestTimeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/prac_notice/!svn/ver/64/apache_common/lang_1/src/test1/TestTimeUtil.java
+END

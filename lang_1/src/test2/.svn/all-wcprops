@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/prac_notice/!svn/ver/64/apache_common/lang_1/src/test2
+END
+Foo.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prac_notice/!svn/ver/64/apache_common/lang_1/src/test2/Foo.java
+END
+Bar.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/prac_notice/!svn/ver/64/apache_common/lang_1/src/test2/Bar.java
+END
+TestReflect.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prac_notice/!svn/ver/64/apache_common/lang_1/src/test2/TestReflect.java
+END

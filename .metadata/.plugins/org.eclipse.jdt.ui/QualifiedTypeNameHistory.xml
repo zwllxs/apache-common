@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="test5.RoomParser"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="test6.CardType"/>
+<fullyQualifiedTypeName name="test6.PayType"/>
+<fullyQualifiedTypeName name="test6.Test"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="test2.Role"/>
+<fullyQualifiedTypeName name="test2.User"/>
+<fullyQualifiedTypeName name="java.util.Properties"/>
+<fullyQualifiedTypeName name="org.apache.commons.beanutils.PropertyUtils"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="org.apache.commons.beanutils.DynaBean"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="org.apache.commons.lang.reflect.ConstructorUtils"/>
+<fullyQualifiedTypeName name="org.apache.commons.beanutils.ConstructorUtils"/>
+<fullyQualifiedTypeName name="org.apache.commons.beanutils.MethodUtils"/>
+<fullyQualifiedTypeName name="test4.Person"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Collection"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="org.apache.commons.beanutils.BeanComparator"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="test3.Month"/>
+<fullyQualifiedTypeName name="org.apache.commons.beanutils.BeanUtils"/>
+<fullyQualifiedTypeName name="org.apache.commons.beanutils.LazyDynaMap"/>
+<fullyQualifiedTypeName name="org.apache.commons.lang.math.Range"/>
+<fullyQualifiedTypeName name="org.apache.commons.lang.math.NumberUtils"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="org.apache.commons.lang.StringUtils"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="org.apache.commons.lang.builder.ToStringBuilder"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+</qualifiedTypeNameHistroy>

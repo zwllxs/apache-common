@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<digester-rules>
+	<pattern value="students">
+		<object-create-rule classname="test3.Students" />
+		<set-properties-rule />
+		<pattern value="student">
+			<object-create-rule classname="test3.Student" />
+			<bean-property-setter-rule pattern="name" />
+			<bean-property-setter-rule pattern="course" />
+			<set-next-rule methodname="addStudent" />
+		</pattern>
+	</pattern>
+</digester-rules>

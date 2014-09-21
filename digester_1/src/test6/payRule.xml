@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<digester-rules>
+	<pattern value="pay">
+		<set-properties-rule />
+		<pattern value="payType">
+			<object-create-rule classname="test6.PayType" />
+			<set-next-rule methodname="addPayTypeList" paramtype="test6.PayType"/>
+			<set-properties-rule />
+			<pattern value="cardType">
+				<object-create-rule classname="test6.CardType" />
+				<set-next-rule methodname="addCardTypeList" paramtype="test6.CardType"/>
+				<set-properties-rule />
+				<pattern value="dataText">
+					<bean-property-setter-rule pattern="titles" />
+					<bean-property-setter-rule pattern="payResult" />
+				</pattern>
+			</pattern>
+		</pattern>
+	</pattern>  
+</digester-rules>

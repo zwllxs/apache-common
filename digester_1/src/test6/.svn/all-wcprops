@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/prac_notice/!svn/ver/63/apache_common/digester_1/src/test6
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/prac_notice/!svn/ver/63/apache_common/digester_1/src/test6/Test.java
+END
+payRule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/prac_notice/!svn/ver/63/apache_common/digester_1/src/test6/payRule.xml
+END
+pay.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/prac_notice/!svn/ver/63/apache_common/digester_1/src/test6/pay.xml
+END
+CardType.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/prac_notice/!svn/ver/63/apache_common/digester_1/src/test6/CardType.java
+END
+PayType.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/prac_notice/!svn/ver/63/apache_common/digester_1/src/test6/PayType.java
+END

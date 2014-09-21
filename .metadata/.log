@@ -1,0 +1,471 @@
+!SESSION 2010-07-04 15:28:38.359 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_02
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data E:\practise_notes\program\java\j2ee\apache-common\use_Eclipse
+
+!ENTRY org.eclipse.update.configurator 2010-07-04 15:28:46.593
+!MESSAGE D:\program\java\IDE\about Eclipse\Eclipse Plugins\slave4j\eclipse\plugins is not a valid plugins directory.
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2010-07-04 15:29:19.437
+!MESSAGE Installed snippet library: D:\program\java\IDE\about Eclipse\MyEclipse 6.5M1 Blue\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.4.100.zmyeclipse64100200805\snippets\html\css_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2010-07-04 15:29:19.640
+!MESSAGE Installed snippet library: D:\program\java\IDE\about Eclipse\MyEclipse 6.5M1 Blue\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.4.100.zmyeclipse64100200805\snippets\html\forms_lists_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2010-07-04 15:29:19.875
+!MESSAGE Installed snippet library: D:\program\java\IDE\about Eclipse\MyEclipse 6.5M1 Blue\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.4.100.zmyeclipse64100200805\snippets\html\htmlform_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2010-07-04 15:29:20.046
+!MESSAGE Installed snippet library: D:\program\java\IDE\about Eclipse\MyEclipse 6.5M1 Blue\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.4.100.zmyeclipse64100200805\snippets\html\html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2010-07-04 15:29:20.203
+!MESSAGE Installed snippet library: D:\program\java\IDE\about Eclipse\MyEclipse 6.5M1 Blue\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.4.100.zmyeclipse64100200805\snippets\html\javascript_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2010-07-04 15:29:20.390
+!MESSAGE Installed snippet library: D:\program\java\IDE\about Eclipse\MyEclipse 6.5M1 Blue\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.4.100.zmyeclipse64100200805\snippets\jsp\jsf_f_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2010-07-04 15:29:20.500
+!MESSAGE Installed snippet library: D:\program\java\IDE\about Eclipse\MyEclipse 6.5M1 Blue\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.4.100.zmyeclipse64100200805\snippets\jsp\jsf_h_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2010-07-04 15:29:20.578
+!MESSAGE Installed snippet library: D:\program\java\IDE\about Eclipse\MyEclipse 6.5M1 Blue\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.4.100.zmyeclipse64100200805\snippets\jsp\struts_bean_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2010-07-04 15:29:20.656
+!MESSAGE Installed snippet library: D:\program\java\IDE\about Eclipse\MyEclipse 6.5M1 Blue\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.4.100.zmyeclipse64100200805\snippets\jsp\struts_html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2010-07-04 15:29:20.718
+!MESSAGE Installed snippet library: D:\program\java\IDE\about Eclipse\MyEclipse 6.5M1 Blue\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.4.100.zmyeclipse64100200805\snippets\jsp\struts_logic_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2010-07-04 15:29:20.765
+!MESSAGE Installed snippet library: D:\program\java\IDE\about Eclipse\MyEclipse 6.5M1 Blue\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.4.100.zmyeclipse64100200805\snippets\jsp\struts_tiles_snippets.xml
+
+!ENTRY org.eclipse.wst.internet.cache 1 0 2010-07-04 15:39:02.843
+!MESSAGE wtp.autotest.noninteractive is set. Licenses dialogs will not be displayed.
+!SESSION 2010-07-04 20:01:21.109 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_02
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data E:\practise_notes\program\java\j2ee\apache-common\use_Eclipse
+
+!ENTRY org.eclipse.update.configurator 2010-07-04 20:01:27.015
+!MESSAGE D:\program\java\IDE\about Eclipse\Eclipse Plugins\slave4j\eclipse\plugins is not a valid plugins directory.
+
+!ENTRY org.eclipse.wst.internet.cache 1 0 2010-07-04 20:15:45.171
+!MESSAGE wtp.autotest.noninteractive is set. Licenses dialogs will not be displayed.
+!SESSION 2010-07-05 07:04:35.734 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_02
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data E:\practise_notes\program\java\j2ee\apache-common\use_Eclipse
+
+!ENTRY org.eclipse.update.configurator 2010-07-05 07:04:41.375
+!MESSAGE D:\program\java\IDE\about Eclipse\Eclipse Plugins\slave4j\eclipse\plugins is not a valid plugins directory.
+
+!ENTRY org.eclipse.wst.internet.cache 1 0 2010-07-05 07:05:23.437
+!MESSAGE wtp.autotest.noninteractive is set. Licenses dialogs will not be displayed.
+!SESSION 2010-07-06 23:49:11.984 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_02
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data E:\practise_notes\program\java\j2ee\apache-common\use_Eclipse
+
+!ENTRY org.eclipse.update.configurator 2010-07-06 23:49:12.468
+!MESSAGE D:\program\java\IDE\about Eclipse\Eclipse Plugins\slave4j\eclipse\plugins is not a valid plugins directory.
+
+!ENTRY org.eclipse.wst.internet.cache 1 0 2010-07-06 23:56:35.109
+!MESSAGE wtp.autotest.noninteractive is set. Licenses dialogs will not be displayed.
+!SESSION 2010-07-07 01:23:13.937 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_02
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data E:\practise_notes\program\java\j2ee\apache-common\use_Eclipse
+
+!ENTRY org.eclipse.update.configurator 2010-07-07 01:23:14.390
+!MESSAGE D:\program\java\IDE\about Eclipse\Eclipse Plugins\slave4j\eclipse\plugins is not a valid plugins directory.
+
+!ENTRY org.eclipse.wst.internet.cache 1 0 2010-07-07 01:23:20.421
+!MESSAGE wtp.autotest.noninteractive is set. Licenses dialogs will not be displayed.
+!SESSION 2010-07-07 22:38:43.187 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_02
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data E:\practise_notes\program\java\j2ee\apache-common\use_Eclipse
+
+!ENTRY org.eclipse.update.configurator 2010-07-07 22:38:47.562
+!MESSAGE D:\program\java\IDE\about Eclipse\Eclipse Plugins\slave4j\eclipse\plugins is not a valid plugins directory.
+
+!ENTRY org.eclipse.wst.internet.cache 1 0 2010-07-07 22:39:13.593
+!MESSAGE wtp.autotest.noninteractive is set. Licenses dialogs will not be displayed.
+!SESSION 2010-07-09 22:58:28.046 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_02
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data E:\practise_notes\program\java\j2ee\apache-common\use_Eclipse
+
+!ENTRY org.eclipse.update.configurator 2010-07-09 22:58:32.328
+!MESSAGE D:\program\java\IDE\about Eclipse\Eclipse Plugins\slave4j\eclipse\plugins is not a valid plugins directory.
+!SESSION 2010-07-10 21:49:21.171 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_02
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data E:\practise_notes\program\java\j2ee\apache-common\use_Eclipse
+
+!ENTRY org.eclipse.update.configurator 2010-07-10 21:49:26.109
+!MESSAGE D:\program\java\IDE\about Eclipse\Eclipse Plugins\slave4j\eclipse\plugins is not a valid plugins directory.
+!SESSION 2010-07-11 08:57:25.593 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_02
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data E:\practise_notes\program\java\j2ee\apache-common\use_Eclipse
+
+!ENTRY org.eclipse.update.configurator 2010-07-11 08:57:30.421
+!MESSAGE D:\program\java\IDE\about Eclipse\Eclipse Plugins\slave4j\eclipse\plugins is not a valid plugins directory.
+
+!ENTRY org.eclipse.jdt.core 4 1008 2010-07-11 14:44:39.500
+!MESSAGE Cannot retrieve the attached javadoc for TODO {key=Lcom/sun/xml/internal/bind/v2/TODO;} [in TODO.class [in com.sun.xml.internal.bind.v2 [in C:\Program Files\Java\jdk1.6.0_02\jre\lib\rt.jar]]]java.net.UnknownHostException: java.sun.com
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:177)
+	at java.net.Socket.connect(Socket.java:518)
+	at java.net.Socket.connect(Socket.java:468)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:157)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:389)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:516)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:233)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:306)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:318)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:788)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:729)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:654)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:977)
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:742)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1060)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:972)
+	at org.eclipse.jdt.ui.JavadocContentAccess.getHTMLContentReader(JavadocContentAccess.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:176)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverInfo(AbstractJavaEditorTextHover.java:125)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo(BestMatchHover.java:102)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo(JavaEditorTextHoverProxy.java:69)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:165)
+
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2010-07-11 14:53:10.296
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [Cannot retrieve the attached javadoc for MethodUtil [in MethodUtil.class [in sun.reflect.misc [in C:\Program Files\Java\jdk1.6.0_02\jre\lib\rt.jar]]]java.net.UnknownHostException: java.sun.com
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:177)
+	at java.net.Socket.connect(Socket.java:518)
+	at java.net.Socket.connect(Socket.java:468)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:157)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:389)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:516)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:233)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:306)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:318)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:788)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:729)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:654)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:977)
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:742)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1060)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:972)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getHTMLContentReader(ProposalInfo.java:112)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:99)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:76)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:59)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:521)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+]
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:787)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1060)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:972)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getHTMLContentReader(ProposalInfo.java:112)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:99)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:76)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:59)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:521)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1008 2010-07-11 14:53:10.296
+!MESSAGE Cannot retrieve the attached javadoc for MethodUtil [in MethodUtil.class [in sun.reflect.misc [in C:\Program Files\Java\jdk1.6.0_02\jre\lib\rt.jar]]]java.net.UnknownHostException: java.sun.com
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:177)
+	at java.net.Socket.connect(Socket.java:518)
+	at java.net.Socket.connect(Socket.java:468)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:157)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:389)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:516)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:233)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:306)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:318)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:788)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:729)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:654)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:977)
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:742)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1060)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:972)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getHTMLContentReader(ProposalInfo.java:112)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:99)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:76)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:59)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:521)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2010-07-11 15:14:40.734
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [Cannot retrieve the attached javadoc for Test [in Test.class [in org.junit [in D:\program\java\IDE\about Eclipse\MyEclipse 6.5M1 Blue\eclipse\plugins\org.junit4_4.3.1\junit.jar]]]java.net.UnknownHostException: www.junit.org
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:177)
+	at java.net.Socket.connect(Socket.java:518)
+	at java.net.Socket.connect(Socket.java:468)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:157)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:389)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:516)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:233)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:306)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:318)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:788)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:729)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:654)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:977)
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:742)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1060)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:972)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getHTMLContentReader(ProposalInfo.java:112)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:99)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:76)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:59)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:521)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+]
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:787)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1060)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:972)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getHTMLContentReader(ProposalInfo.java:112)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:99)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:76)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:59)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:521)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1008 2010-07-11 15:14:40.734
+!MESSAGE Cannot retrieve the attached javadoc for Test [in Test.class [in org.junit [in D:\program\java\IDE\about Eclipse\MyEclipse 6.5M1 Blue\eclipse\plugins\org.junit4_4.3.1\junit.jar]]]java.net.UnknownHostException: www.junit.org
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:177)
+	at java.net.Socket.connect(Socket.java:518)
+	at java.net.Socket.connect(Socket.java:468)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:157)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:389)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:516)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:233)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:306)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:318)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:788)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:729)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:654)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:977)
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:742)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1060)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:972)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getHTMLContentReader(ProposalInfo.java:112)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:99)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:76)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:59)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:521)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2010-07-11 16:52:19.625
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [Cannot retrieve the attached javadoc for Test [in Test.class [in org.junit [in D:\program\java\IDE\about Eclipse\MyEclipse 6.5M1 Blue\eclipse\plugins\org.junit4_4.3.1\junit.jar]]]java.net.UnknownHostException: www.junit.org
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:177)
+	at java.net.Socket.connect(Socket.java:518)
+	at java.net.Socket.connect(Socket.java:468)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:157)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:389)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:516)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:233)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:306)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:318)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:788)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:729)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:654)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:977)
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:742)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1060)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:972)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getHTMLContentReader(ProposalInfo.java:112)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:99)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:76)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:59)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:521)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+]
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:787)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1060)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:972)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getHTMLContentReader(ProposalInfo.java:112)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:99)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:76)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:59)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:521)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1008 2010-07-11 16:52:19.625
+!MESSAGE Cannot retrieve the attached javadoc for Test [in Test.class [in org.junit [in D:\program\java\IDE\about Eclipse\MyEclipse 6.5M1 Blue\eclipse\plugins\org.junit4_4.3.1\junit.jar]]]java.net.UnknownHostException: www.junit.org
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:177)
+	at java.net.Socket.connect(Socket.java:518)
+	at java.net.Socket.connect(Socket.java:468)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:157)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:389)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:516)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:233)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:306)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:318)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:788)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:729)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:654)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:977)
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:742)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1060)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:972)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getHTMLContentReader(ProposalInfo.java:112)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:99)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:76)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:59)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:521)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!SESSION 2010-07-12 21:54:09.421 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_02
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data E:\practise_notes\program\java\j2ee\apache-common\use_Eclipse
+
+!ENTRY org.eclipse.update.configurator 2010-07-12 21:54:13.828
+!MESSAGE D:\program\java\IDE\about Eclipse\Eclipse Plugins\slave4j\eclipse\plugins is not a valid plugins directory.
+!SESSION 2010-07-17 11:36:40.203 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_02
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data E:\practise_notes\program\java\j2ee\apache-common\use_Eclipse
+
+!ENTRY org.eclipse.update.configurator 2010-07-17 11:36:44.890
+!MESSAGE D:\program\java\IDE\about Eclipse\Eclipse Plugins\slave4j\eclipse\plugins is not a valid plugins directory.
+
+!ENTRY org.eclipse.jdt.core 4 1008 2010-07-17 11:37:32.890
+!MESSAGE Cannot retrieve the attached javadoc for Test {key=Lorg/junit/Test;} [in Test.class [in org.junit [in D:\program\java\IDE\about Eclipse\MyEclipse 6.5M1 Blue\eclipse\plugins\org.junit4_4.3.1\junit.jar]]]java.net.UnknownHostException: www.junit.org
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:177)
+	at java.net.Socket.connect(Socket.java:518)
+	at java.net.Socket.connect(Socket.java:468)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:157)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:389)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:516)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:233)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:306)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:318)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:788)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:729)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:654)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:977)
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:742)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1060)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:972)
+	at org.eclipse.jdt.ui.JavadocContentAccess.getHTMLContentReader(JavadocContentAccess.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:176)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverInfo(AbstractJavaEditorTextHover.java:125)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo(BestMatchHover.java:102)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo(JavaEditorTextHoverProxy.java:69)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:165)
+
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2010-07-17 11:48:36.625
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [Cannot retrieve the attached javadoc for Test [in Test.class [in org.junit [in D:\program\java\IDE\about Eclipse\MyEclipse 6.5M1 Blue\eclipse\plugins\org.junit4_4.3.1\junit.jar]]]java.net.UnknownHostException: www.junit.org
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:177)
+	at java.net.Socket.connect(Socket.java:518)
+	at java.net.Socket.connect(Socket.java:468)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:157)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:389)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:516)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:233)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:306)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:318)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:788)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:729)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:654)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:977)
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:742)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1060)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:972)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getHTMLContentReader(ProposalInfo.java:112)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:99)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:76)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:59)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:521)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+]
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:787)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1060)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:972)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getHTMLContentReader(ProposalInfo.java:112)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:99)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:76)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:59)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:521)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1008 2010-07-17 11:48:36.625
+!MESSAGE Cannot retrieve the attached javadoc for Test [in Test.class [in org.junit [in D:\program\java\IDE\about Eclipse\MyEclipse 6.5M1 Blue\eclipse\plugins\org.junit4_4.3.1\junit.jar]]]java.net.UnknownHostException: www.junit.org
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:177)
+	at java.net.Socket.connect(Socket.java:518)
+	at java.net.Socket.connect(Socket.java:468)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:157)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:389)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:516)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:233)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:306)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:318)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:788)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:729)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:654)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:977)
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:742)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1060)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:972)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getHTMLContentReader(ProposalInfo.java:112)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:99)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:76)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:59)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:521)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!SESSION 2010-07-17 23:50:11.796 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_02
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data E:\practise_notes\program\java\j2ee\apache-common\use_Eclipse
+
+!ENTRY org.eclipse.update.configurator 2010-07-17 23:50:14.234
+!MESSAGE D:\program\java\IDE\about Eclipse\Eclipse Plugins\slave4j\eclipse\plugins is not a valid plugins directory.

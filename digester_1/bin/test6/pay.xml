@@ -1,0 +1,55 @@
+<pay>
+	<payType name="快钱">
+		<cardType name="联通">
+			<dataFormat columns="32,1,64,2" rows="3,2"/>
+			<dataText>
+				<titles>
+					联通AAAAAAAAA,
+					联通BBBBBBBBB,
+					联通CCCCCCCCC,
+					联通DDDDDDDDD,
+					联通EEEEEEEEE,
+					联通FFFFFFFFF
+				</titles>
+				<payResult>
+					支付成功
+				</payResult>
+			</dataText>
+		</cardType>
+		<cardType name="直充">
+			<dataFormat columns="2,3,5,7" rows="2,4" />
+			<dataText>
+				<titles>
+					直充AAAAAAAAA,
+					直充BBBBBBBBB,
+					直充CCCCCCCCC,
+					直充DDDDDDDDD,
+					直充EEEEEEEEE,
+					直充FFFFFFFFF
+				</titles>
+				<payResult>
+					支付完成
+				</payResult>
+			</dataText>
+		</cardType>
+	</payType>
+	
+	<payType name="19pay">
+		<cardType name="19pay">
+			<dataFormat columns="21,31,51,71" rows="21,41"/>
+			<dataText>
+				<titles>
+					19payAAAAAAAAA,
+					19payBBBBBBBBB,
+					19payCCCCCCCCC,
+					19payDDDDDDDDD,
+					19payEEEEEEEEE,
+					19payFFFFFFFFF
+				</titles>
+				<payResult>
+					支付OK
+				</payResult>
+			</dataText>
+		</cardType>
+	</payType>
+</pay>

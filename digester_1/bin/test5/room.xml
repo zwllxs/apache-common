@@ -1,0 +1,16 @@
+<rooms>
+	<room id="1" name="General Topics" />
+	<room id="2" name="Programming" />
+	<room id="3" name="Movies" />
+	<room id="4" name="Music" />
+	<room id="5" name="Television" />
+
+	<room>
+		<id>6</id>
+		<name>shit</name>
+	</room>
+	<room>
+		<id>7</id>
+		<name>haha</name>
+	</room>
+</rooms>

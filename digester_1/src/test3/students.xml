@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<students>
+	<student>
+		<name>Tom</name>
+		<course>JSP</course>
+	</student>
+	<student>
+		<name>Mary</name>
+		<course>J2EE</course>
+	</student>
+</students>
